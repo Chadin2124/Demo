@@ -2,12 +2,12 @@
 <html lang="en">
 
 <head>
-      <?php include('template/head.php'); ?>
+      <?php include('./template/head.php'); ?>
       
 </head>
 
 <body>
-      <?php include('template/nav.php'); ?>
+      <?php include('./template/nav.php'); ?>
 
 
 <div class="card bg-dark text-white">
