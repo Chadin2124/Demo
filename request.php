@@ -16,6 +16,9 @@
     <p class="card-text"></p>
   </div>
 </div>
+
+<iframe src="https://forms.gle/k2JmTEJkBZuZqutL8" width="1024" height="1900" frameborder="0" marginheight="0" marginwidth="0">กำลังโหลด…</iframe>
+
 </body>
 <?php include('./template/foot.php'); ?>
 
