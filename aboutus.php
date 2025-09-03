@@ -3,15 +3,16 @@
 
 <head>
       <?php include('./template/head.php'); ?>
-      <style>
-          .container{
-            padding: 40px;
-          }
-
-      </style>
+      
 </head>
 
 <body>
+  <style>
+    .container {
+      padding: 20px;
+    }
+
+  </style>
       <?php include('./template/nav.php'); ?>
 
       <div id="logo2" align="center">
