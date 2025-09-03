@@ -3,11 +3,17 @@
 
 <head>
       <?php include('./template/head.php'); ?>
-      
+      <style>
+          .container{
+            padding: 20;
+          }
+
+      </style>
 </head>
 
 <body>
       <?php include('./template/nav.php'); ?>
+
       <div id="logo2" align="center">
     <img src="images/logo2.jpg" class="img-fluid" width="450">
   </div>
