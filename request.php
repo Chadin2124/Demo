@@ -17,7 +17,7 @@
   </div>
 </div>
 <div class="container-fluid" align="center">
-  <iframe src="https://forms.gle/k2JmTEJkBZuZqutL8" width="1024" height="1900" frameborder="0" marginheight="0" marginwidth="0">กำลังโหลด…</iframe>
+  <iframe src="https://forms.gle/k2JmTEJkBZuZqutL8" frameborder="0" marginheight="0" marginwidth="0">กำลังโหลด…</iframe>
   </div>
 </body>
 <?php include('./template/foot.php'); ?>
