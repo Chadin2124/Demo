@@ -5,7 +5,7 @@
       <?php include('./template/head.php'); ?>
       <style>
           .container{
-            padding: 20;
+            padding: 40px;
           }
 
       </style>
