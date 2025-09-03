@@ -76,7 +76,7 @@
         <a type="button" class="btn btn-outline-secondary btn-lg px-4" href ="request.php">><font face="Kanit" >ขอใบเสนอราคา</font></a>
       </div>
 
-<link rel="import" href="nav.html">
+
 </body>
 <br>
 <footer class="p-3 mb-2  text-white bg-dark w" >
