@@ -47,7 +47,7 @@ grid-row-gap: 0px;
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               เรื่องน่ารู้
             </a>
-            <ul class="dropdown-menu " style="background-color: #e3f2fd;">
+            <ul class="dropdown-menu ">
               <li><a class="dropdown-item" href="idea.php">บริษัทจำกัด/ห้างหุ้นส่วนจำกัด</a></li>
               <li><a class="dropdown-item" href="idea2.php">ควรจดทะเบียนเมื่อใด?</a></li>
               <li><a class="dropdown-item" href="idea3.php">ค่าอาหารกับการเคลมภาษีซื้อ</a></li>
